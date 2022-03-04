@@ -1,0 +1,16 @@
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia_Vehiculos\Herencia_Vehiculos\bin\Debug\net5.0\Herencia_Vehiculos.exe
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia_Vehiculos\Herencia_Vehiculos\bin\Debug\net5.0\Herencia_Vehiculos.deps.json
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia_Vehiculos\Herencia_Vehiculos\bin\Debug\net5.0\Herencia_Vehiculos.runtimeconfig.json
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia_Vehiculos\Herencia_Vehiculos\bin\Debug\net5.0\Herencia_Vehiculos.runtimeconfig.dev.json
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia_Vehiculos\Herencia_Vehiculos\bin\Debug\net5.0\Herencia_Vehiculos.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia_Vehiculos\Herencia_Vehiculos\bin\Debug\net5.0\ref\Herencia_Vehiculos.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia_Vehiculos\Herencia_Vehiculos\bin\Debug\net5.0\Herencia_Vehiculos.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia_Vehiculos\Herencia_Vehiculos\obj\Debug\net5.0\Herencia_Vehiculos.csproj.AssemblyReference.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia_Vehiculos\Herencia_Vehiculos\obj\Debug\net5.0\Herencia_Vehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia_Vehiculos\Herencia_Vehiculos\obj\Debug\net5.0\Herencia_Vehiculos.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia_Vehiculos\Herencia_Vehiculos\obj\Debug\net5.0\Herencia_Vehiculos.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia_Vehiculos\Herencia_Vehiculos\obj\Debug\net5.0\Herencia_Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia_Vehiculos\Herencia_Vehiculos\obj\Debug\net5.0\Herencia_Vehiculos.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia_Vehiculos\Herencia_Vehiculos\obj\Debug\net5.0\ref\Herencia_Vehiculos.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia_Vehiculos\Herencia_Vehiculos\obj\Debug\net5.0\Herencia_Vehiculos.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\Herencia C#\Herencia_Vehiculos\Herencia_Vehiculos\obj\Debug\net5.0\Herencia_Vehiculos.genruntimeconfig.cache
